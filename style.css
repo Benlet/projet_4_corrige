@@ -705,6 +705,18 @@ p {
     font-size: 13px;
 }
 
+.col-sm-4 li
+{
+    height: 48px;
+}
+
+li a
+{
+    width: 100%;
+    height:100%;
+    display: inline-block;
+}
+
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
