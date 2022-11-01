@@ -741,6 +741,15 @@ li a
     margin: auto auto auto auto;
 }
 
+.social a
+{
+    display: flex;
+    width: 48px;
+    height: 48px;
+    justify-content: center;
+    align-items: center;
+}
+
 h2 {
     font-size: 22px;
     line-height: 1.4em;
